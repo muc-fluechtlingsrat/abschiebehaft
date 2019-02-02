@@ -1,6 +1,6 @@
 date,male,female,teenager,adolescent,adult,total,source,source_2
 2014-03-31,27,3,,,,30,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile,
-2014-07-31,,,,1,6,7,https://kleineanfragen.de/bayern/17/3059-abschiebehaft-in-bayern-1,
+2014-07-31,,,,True,6,7,https://kleineanfragen.de/bayern/17/3059-abschiebehaft-in-bayern-1,
 2014-08-31,9,3,,,,12,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile,
 2014-11-30,,,,,,9,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile,
 2015-01-31,12,2,,,,14,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
@@ -9,9 +9,9 @@ date,male,female,teenager,adolescent,adult,total,source,source_2
 2015-04-30,16,,,,,16,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-05-31,11,,,,,11,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-06-30,9,1,,,,10,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
+2015-06-30,16,,,,,16,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-07-31,12,1,,,,13,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-08-31,7,1,,,,8,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
-2015-06-30,16,,,,,16,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-10-31,22,1,,,,23,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-11-30,29,1,,,,30,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-12-31,42,,,,,42,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
