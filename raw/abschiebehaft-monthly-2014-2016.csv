@@ -9,9 +9,9 @@ date,male,female,teenager,adolescent,adult,total,source,source_2
 2015-04-30,16,,,,,16,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-05-31,11,,,,,11,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-06-30,9,1,,,,10,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
-2015-06-30,16,,,,,16,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-07-31,12,1,,,,13,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-08-31,7,1,,,,8,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
+2015-09-30,16,,,,,16,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-10-31,22,1,,,,23,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-11-30,29,1,,,,30,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2015-12-31,42,,,,,42,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
@@ -25,8 +25,7 @@ date,male,female,teenager,adolescent,adult,total,source,source_2
 2016-08-31,19,1,,,,20,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2016-09-30,28,2,,,,30,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
 2016-10-31,37,,,,,37,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
-2016-11-30,38,1,,,,39,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,
-2016-11-30,38,1,,,,39,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile
+2016-11-30,38,1,,,,39,https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern and https://kleineanfragen.de/bayern/17/14884-abschiebehaft-in-bayern,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile
 2017-03-31,46,4,,,,50,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile,
 2017-08-31,73,7,,,,80,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile,
 2017-11-30,92,8,,,,100,https://www.destatis.de/DE/Publikationen/Thematisch/Rechtspflege/StrafverfolgungVollzug/BestandGefangeneVerwahrtePDF_5243201.pdf?__blob=publicationFile,
